@@ -1,6 +1,7 @@
 import requests
-r.encoding = 'utf-8'
+
 r = requests.get('https://wikidocs.net')
+r.encoding = 'utf-8'
 # html = r.text
 
 print(r.status_code)
