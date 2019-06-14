@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18d37e8a-7b02-494c-9feb-cdde96b5c8b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hellper/MouseMoveTracking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hellper/testQLineEdit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hellper/Helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hellper/ProtoType.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hellper/ProtoType.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hellper/MouseMoveTracking.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="494">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -30,11 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Hellper/testQLineEdit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-              <folding>
-                <element signature="e#17#27#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="428">
+              <caret line="45" column="50" lean-forward="true" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -71,8 +65,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="919" />
-    <option name="y" value="11" />
+    <option name="x" value="235" />
+    <option name="y" value="89" />
     <option name="width" value="967" />
     <option name="height" value="859" />
   </component>
@@ -82,6 +76,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,10 +93,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Hellper" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -236,16 +231,17 @@
       <workItem from="1559609834704" duration="3575000" />
       <workItem from="1559614419119" duration="6994000" />
       <workItem from="1559693806979" duration="1740000" />
+      <workItem from="1560300787407" duration="41000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12309000" />
+    <option name="totallyTimeSpent" value="12350000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="919" y="11" width="967" height="859" extended-state="0" />
+    <frame x="235" y="89" width="967" height="859" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26901874" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27453142" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -319,8 +315,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hellper/MouseMoveTracking.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        <state relative-caret-position="494">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -329,11 +325,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hellper/testQLineEdit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-          <folding>
-            <element signature="e#17#27#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="428">
+          <caret line="45" column="50" lean-forward="true" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
         </state>
       </provider>
     </entry>

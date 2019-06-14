@@ -3,6 +3,7 @@ from tkinter import ttk
 from pynput import mouse
 import pyautogui
 
+
 root = Tk()
 root.title("마우스 좌표 찾기")
 root.geometry("400x300")
